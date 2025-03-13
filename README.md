@@ -1,3 +1,3 @@
-# CRUADD (Node.js + MongoDB)
+# CRUDAPP (Node.js + MongoDB)
 
 Project builded with Node.js & MongoDB
